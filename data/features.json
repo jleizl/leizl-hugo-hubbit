@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Laptop and Desktop Repairs",
+    "description": "Whether you’re using a laptop or a desktop, our technician is skilled in repairing a wide range of brands and models.",
+    "icon": "fa-solid fa-computer"
+  },
+  {
+    "title": "Data Recovery",
+    "description": "Accidentally deleted important files or experiencing data loss due to a hardware failure? We specialize in data recovery services to retrieve your valuable information.",
+    "icon": "fa-solid fa-laptop-file",
+    "icon2": "fa-solid fa-microphone"
+  },
+  {
+    "title": "Customer Education",
+    "description": "We’ll explain the issues, solutions, and preventive measures in easy-to-understand terms, so you can make informed decisions.",
+    "icon": "fa-solid fa-lightbulb"
+  },
+  {
+    "title": "Visit Our Page",
+    "description": "At HUBbit, your technology is our priority. Let us take care of your computer repair needs so you can get back to what matters most to you.",
+    "icon": "fa-brands fa-facebook",
+    "link": "https://www.facebook.com/hubbittrading/"
+  },
+  {
+    "title": "Location",
+    "description": "You can also visit at Rayo de Sol Bldg., Quezon Avenue, Brgy. 9, Catanauan, Quezon, 4311 during our working hours 9:00am - 5:00pm, Mondays-Saturdays.",
+    "icon": "fa-solid fa-map-location-dot",
+    "link": "https://goo.gl/maps/bQ5cyUz5kf3fvukdA"
+  },
+  {
+    "title": "The Owners",
+    "description": "Owned and Managed by: Froilan and Leizl",
+    "icon": "fa-solid fa-users-gear",
+    "link": "https://www.facebook.com/froilanreyes101686"
+  }
+]
